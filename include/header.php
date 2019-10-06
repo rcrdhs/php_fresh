@@ -16,13 +16,13 @@
 	 	<ul class="nav nav-tabs">
 			<li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
 			<li class="nav-item"><a class="nav-link active" href="array.php">Simple Array and Printouts</a></li>
-            <li class="nav-item"><a class="nav-link active" href="Datetimemanipulation.php">Simple Date and Time Manipulation</a></li>
-			<li class="nav-item"><a class="nav-link active" href="Forloop.php">Simple For Loop</a></li>
-			<li class="nav-item"><a class="nav-link active" href="Functions.php">Simple Functions</a></li>
-			<li class="nav-item"><a class="nav-link active" href="WhileDowhileLoop.php">Simple Do While</a></li>
-			<li class="nav-item"><a class="nav-link active" href="IfStatement.php">Simple If Statement</a></li>
-			<li class="nav-item"><a class="nav-link active" href="SwitchStatement.php">Simple Switch Statements</a></li>
-			<li class="nav-item"><a class="nav-link active" href="Stringmanipulation.php">Manipulating a String</a></li>
+            <li class="nav-item"><a class="nav-link active" href="datetimemanipulation.php">Simple Date and Time Manipulation</a></li>
+			<li class="nav-item"><a class="nav-link active" href="forloop.php">Simple For Loop</a></li>
+			<li class="nav-item"><a class="nav-link active" href="functions.php">Simple Functions</a></li>
+			<li class="nav-item"><a class="nav-link active" href="whileDowhileLoop.php">Simple Do While</a></li>
+			<li class="nav-item"><a class="nav-link active" href="ifStatement.php">Simple If Statement</a></li>
+			<li class="nav-item"><a class="nav-link active" href="switchStatement.php">Simple Switch Statements</a></li>
+			<li class="nav-item"><a class="nav-link active" href="stringmanipulation.php">Manipulating a String</a></li>
 			
 		</ul> 
 <br/>
