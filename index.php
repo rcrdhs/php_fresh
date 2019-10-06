@@ -3,7 +3,7 @@ $title ="Index/Home";
 include 'include/header.php'
 ?>
 
-    <h1>Hail Fan - Praise me</h1>
+    <h1>Hail, Fan - Praise me</h1>
 
 <?php 
     echo "PHP stuffs.";
